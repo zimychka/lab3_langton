@@ -1,1 +1,2 @@
-# lab3_langton
+# RUT, UPM
+lab3_langton
